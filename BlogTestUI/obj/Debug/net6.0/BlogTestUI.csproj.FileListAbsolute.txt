@@ -32,3 +32,4 @@ D:\Stuff\New folder\TerrenLE2\BlogTestUI\obj\Debug\net6.0\refint\BlogTestUI.dll
 D:\Stuff\New folder\TerrenLE2\BlogTestUI\obj\Debug\net6.0\BlogTestUI.pdb
 D:\Stuff\New folder\TerrenLE2\BlogTestUI\obj\Debug\net6.0\BlogTestUI.genruntimeconfig.cache
 D:\Stuff\New folder\TerrenLE2\BlogTestUI\obj\Debug\net6.0\ref\BlogTestUI.dll
+D:\Stuff\New folder\TerrenLE2\BlogTestUI\bin\Debug\net6.0\appsettings.json
