@@ -1,0 +1,12 @@
+D:\Stuff\New folder\TerrenLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.deps.json
+D:\Stuff\New folder\TerrenLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.dll
+D:\Stuff\New folder\TerrenLE2\BlogDataLibrary\bin\Debug\net6.0\BlogDataLibrary.pdb
+D:\Stuff\New folder\TerrenLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.AssemblyReference.cache
+D:\Stuff\New folder\TerrenLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\New folder\TerrenLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfoInputs.cache
+D:\Stuff\New folder\TerrenLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.AssemblyInfo.cs
+D:\Stuff\New folder\TerrenLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+D:\Stuff\New folder\TerrenLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.dll
+D:\Stuff\New folder\TerrenLE2\BlogDataLibrary\obj\Debug\net6.0\refint\BlogDataLibrary.dll
+D:\Stuff\New folder\TerrenLE2\BlogDataLibrary\obj\Debug\net6.0\BlogDataLibrary.pdb
+D:\Stuff\New folder\TerrenLE2\BlogDataLibrary\obj\Debug\net6.0\ref\BlogDataLibrary.dll

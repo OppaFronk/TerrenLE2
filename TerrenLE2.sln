@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogDataLibrary", "BlogDataLibrary\BlogDataLibrary.csproj", "{D4C0DD03-8B55-4508-B4F7-3FB0D7EEEB36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogTestUI", "BlogTestUI\BlogTestUI.csproj", "{EAA9E487-91D7-43A5-A2EF-E3D3BD1BC954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C0DD03-8B55-4508-B4F7-3FB0D7EEEB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C0DD03-8B55-4508-B4F7-3FB0D7EEEB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C0DD03-8B55-4508-B4F7-3FB0D7EEEB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C0DD03-8B55-4508-B4F7-3FB0D7EEEB36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA9E487-91D7-43A5-A2EF-E3D3BD1BC954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA9E487-91D7-43A5-A2EF-E3D3BD1BC954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA9E487-91D7-43A5-A2EF-E3D3BD1BC954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA9E487-91D7-43A5-A2EF-E3D3BD1BC954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
